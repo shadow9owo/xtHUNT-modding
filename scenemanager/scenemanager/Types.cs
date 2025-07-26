@@ -97,6 +97,7 @@ namespace scenemanager
             public List<GameObjectData> gameobjectlist;
             public string scenename;
             public int sceneid;
+            public string bgpath;
         }
     }
 }

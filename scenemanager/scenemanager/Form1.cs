@@ -115,5 +115,20 @@ namespace scenemanager
         {
             globaldata.save();
         }
+
+        private void backgroundimg_MouseHover(object sender, EventArgs e)
+        {
+            toolTip1.SetToolTip(arguments, "background img name (example.png)");
+        }
+
+        private void viewjson_Click(object sender, EventArgs e)
+        {
+            globaldata.open();
+        }
+
+        private void refreshcache_Click(object sender, EventArgs e)
+        {
+            
+        }
     }
 }

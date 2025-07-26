@@ -48,6 +48,8 @@
             this.load = new System.Windows.Forms.Button();
             this.arguments = new System.Windows.Forms.RichTextBox();
             this.label4 = new System.Windows.Forms.Label();
+            this.backgroundimg = new System.Windows.Forms.RichTextBox();
+            this.viewjson = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // textureidlist
@@ -224,11 +226,33 @@
             this.label4.TabIndex = 18;
             this.label4.Text = "custom argumenrts";
             // 
+            // backgroundimg
+            // 
+            this.backgroundimg.Location = new System.Drawing.Point(34, 338);
+            this.backgroundimg.Multiline = false;
+            this.backgroundimg.Name = "backgroundimg";
+            this.backgroundimg.Size = new System.Drawing.Size(139, 29);
+            this.backgroundimg.TabIndex = 19;
+            this.backgroundimg.Text = "";
+            this.backgroundimg.MouseHover += new System.EventHandler(this.backgroundimg_MouseHover);
+            // 
+            // viewjson
+            // 
+            this.viewjson.Location = new System.Drawing.Point(735, 12);
+            this.viewjson.Name = "viewjson";
+            this.viewjson.Size = new System.Drawing.Size(75, 23);
+            this.viewjson.TabIndex = 20;
+            this.viewjson.Text = "view json";
+            this.viewjson.UseVisualStyleBackColor = true;
+            this.viewjson.Click += new System.EventHandler(this.viewjson_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(822, 631);
+            this.Controls.Add(this.viewjson);
+            this.Controls.Add(this.backgroundimg);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.arguments);
             this.Controls.Add(this.load);
@@ -277,6 +301,8 @@
         private System.Windows.Forms.Button load;
         private System.Windows.Forms.RichTextBox arguments;
         private System.Windows.Forms.Label label4;
+        private System.Windows.Forms.RichTextBox backgroundimg;
+        private System.Windows.Forms.Button viewjson;
     }
 }
 
