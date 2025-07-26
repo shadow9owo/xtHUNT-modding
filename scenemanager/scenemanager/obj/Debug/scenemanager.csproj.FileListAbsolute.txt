@@ -1,0 +1,13 @@
+C:\Users\shadowdev\source\repos\scenemanager\scenemanager\bin\Debug\scenemanager.exe.config
+C:\Users\shadowdev\source\repos\scenemanager\scenemanager\bin\Debug\scenemanager.exe
+C:\Users\shadowdev\source\repos\scenemanager\scenemanager\bin\Debug\scenemanager.pdb
+C:\Users\shadowdev\source\repos\scenemanager\scenemanager\bin\Debug\Newtonsoft.Json.dll
+C:\Users\shadowdev\source\repos\scenemanager\scenemanager\bin\Debug\Newtonsoft.Json.xml
+C:\Users\shadowdev\source\repos\scenemanager\scenemanager\obj\Debug\scenemanager.csproj.AssemblyReference.cache
+C:\Users\shadowdev\source\repos\scenemanager\scenemanager\obj\Debug\scenemanager.Form1.resources
+C:\Users\shadowdev\source\repos\scenemanager\scenemanager\obj\Debug\scenemanager.Properties.Resources.resources
+C:\Users\shadowdev\source\repos\scenemanager\scenemanager\obj\Debug\scenemanager.csproj.GenerateResource.cache
+C:\Users\shadowdev\source\repos\scenemanager\scenemanager\obj\Debug\scenemanager.csproj.CoreCompileInputs.cache
+C:\Users\shadowdev\source\repos\scenemanager\scenemanager\obj\Debug\sceneman.09D72CCE.Up2Date
+C:\Users\shadowdev\source\repos\scenemanager\scenemanager\obj\Debug\scenemanager.exe
+C:\Users\shadowdev\source\repos\scenemanager\scenemanager\obj\Debug\scenemanager.pdb
