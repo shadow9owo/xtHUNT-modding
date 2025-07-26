@@ -128,7 +128,7 @@ namespace scenemanager
 
         private void refreshcache_Click(object sender, EventArgs e)
         {
-            
+            //equivalent is load()
         }
     }
 }
